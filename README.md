@@ -46,9 +46,12 @@ CampusFix/
 │
 │── README.md
 
-For Testing Student Username-password
-E-mail-nilaf94439@dwakm.com
-Password-Dhruv2511
+- For Testing Student Username-password
+-  E-mail-nilaf94439@dwakm.com
+- password-Dhruv2511
+- Admin Email Password
+- admin@campusfix.com
+- Admin3535
 ---
 
 ## ⚙️ Installation Guide
