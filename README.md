@@ -46,7 +46,9 @@ CampusFix/
 │
 │── README.md
 
-
+For Testing Student Username-password
+E-mail-nilaf94439@dwakm.com
+Password-Dhruv2511
 ---
 
 ## ⚙️ Installation Guide
